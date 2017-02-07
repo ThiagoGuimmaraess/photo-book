@@ -12,8 +12,7 @@ Envia email para confirmar cadastro.
 	      header("location:index");
 	
      } 	
- include("funcoes/seguranca.php");
- verificaSessao();	 
+ 
 
 /* verifica se veio de um formulário */
 
