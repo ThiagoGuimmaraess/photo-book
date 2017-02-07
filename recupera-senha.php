@@ -12,7 +12,7 @@ Envia email para confirmar cadastro.
 	      header("location:index");
 	
      } 	
- 
+
 
 /* verifica se veio de um formulário */
 

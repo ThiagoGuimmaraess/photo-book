@@ -1,0 +1,185 @@
+/**
+*
+*Estilo do Painel do Usuário
+*@author Thiago Guimarães <thiagoguimaraess_16@hotmail.com>
+*@version 1.0 Photo Book
+ */
+
+
+	   #boas-vindas{
+	   color:gray;
+	   margin-top:30px;
+	   margin-left:30px;
+	   background-color:white;
+	   width:90%;
+	   height:70px;
+	   padding-top:30px;
+	   border-top:purple 2px solid;
+		   
+	   }
+	   
+	   #usuario
+	   
+	   {
+		   margin-left:25px;
+		   margin-top:30px; 
+		   color:/*#6161a0;*/ white;
+		   background-color:/*#c7f36e; #b1c18f; */ #264458;
+		   width:300px;
+		   padding-top:20px;
+		   border-radius:10px;
+		  text-shadow: 2px 2px 8px #90c5e4;
+		   
+		   height:40px;
+		   
+		   
+	   }	   
+	   
+	   
+	   #caixa
+	   
+	   {   
+	
+		
+		
+		  margin-top:100px;		 
+		   
+		   
+	   }
+	   
+	   
+	 div  #acao
+	   
+	   {
+		   
+		  
+	       margin-left:5px;
+		   clear:both;
+
+		   
+		   
+		   
+		   
+		   
+		   
+		   
+	   }	
+
+    .enviar  {
+		background-image: url("../imagens/verimagemcima.png");
+	   background-repeat: no-repeat;
+	    background-position: 200px 70px; 
+		 	   
+		   
+	   }	   
+	      
+		  .enviar:hover  {
+		  	   
+		 	   
+		   filter: blur(4px) contrast(1);
+	   }
+	 
+
+	   
+	     .ver
+	   
+	   {
+	  
+		
+		   
+		   
+		   
+		   
+		   
+	   }
+	   
+	   
+	   
+	   .ver:hover
+	   {
+		   
+		 filter: blur(4px) contrast(1);      
+		   
+		   
+	   }
+	   
+	   
+	   
+	   
+	.subir-imagem 
+       {
+    display: none;
+    }
+/*  Trecho de Código de Tooltip obtido no W3S http://www.w3schools.com/css/css_tooltip.asp */
+	   
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+ .apaga 
+{
+    max-width:90px;
+    max-height:40px;
+	margin-bottom:30px;
+  
+	float:left;
+	margin-left:30px;
+    text-decoration:none;    
+ 
+ 
+	
+}
+
+#galeria
+{
+	
+	max-width:100%;
+	width:100%;
+	margin-bottom:130px;
+	
+	
+	
+}
+
+#galeria img
+{
+	
+	max-width:300px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+	float:left;
+	margin:auto;
+	text-align:center;
+	margin-left:30px;
+	margin-bottom:30px; 
+	border:30px solid #d8d8d8;
+	
+   
+	
+}
