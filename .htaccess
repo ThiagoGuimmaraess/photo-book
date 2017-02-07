@@ -1,0 +1,6 @@
+#remove extenção php para ficar mais fácil, mais bonito e melhor visto nos motores de busca#
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
