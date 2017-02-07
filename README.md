@@ -30,6 +30,24 @@ Conexão usando Mysqli orientado a objetos (mais simples rápido e funcionalidad
 
 Não foi levado em considerado design, segurança em alguns aspectos e SEO.
 
+Desenvolvido com Notepoad++ o UsbServer
+
+
+REFERÊNCIAS
+
+usei trechos de código para desenvolver o site:
+
+css reset no site do Meyer http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ 
+
+
+Tooltip no site da W3Schools http://www.w3schools.org
+
+
+Enviar arquivo em ajax direto do formulário http://malsup.com/jquery/form/
+
+
+
+
 
 
 
