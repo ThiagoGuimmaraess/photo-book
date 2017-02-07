@@ -30,7 +30,7 @@ Conexão usando Mysqli orientado a objetos (mais simples rápido e funcionalidad
 
 Não foi levado em considerado design, segurança em alguns aspectos e SEO.
 
-Desenvolvido com Notepoad++ o UsbServer
+Desenvolvido com Notepoad++ para editar o arquivo  e UsbServer para ser o servidor.
 
 
 REFERÊNCIAS
